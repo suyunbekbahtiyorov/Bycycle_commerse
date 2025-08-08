@@ -189,3 +189,48 @@ header {
     background-size: cover;
     background-attachment: fixed;
 }
+
+footer{
+    background-color: black;
+    padding-top: 91px;
+    padding-bottom: 40px;
+}
+
+.company{
+    margin-top: 64px;
+    color: white;
+    font-size: 16px;
+}
+
+.footer_item_names{
+    color: white;
+    font-size: 24px;
+}
+
+.footer_item{
+    display: flex;
+    gap: 213px;
+}
+
+.footer_item ul{
+    margin-top: 32px;
+}
+
+.footer_item ul li{
+    margin-top: 16px;
+}
+
+.docs_2{
+    color: #F57520;
+    font-size: 16px;
+}
+
+.doc_2{
+    color: white;
+    font-size: 16px;
+}
+
+.union_2{
+    display: flex;
+    justify-content: space-between;
+}

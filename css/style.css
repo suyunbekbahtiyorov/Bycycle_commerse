@@ -156,3 +156,36 @@ header {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.cards_2{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card_2{
+    width: 400px;
+    height: 443px;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+#hero_3{
+    background-color: #F8F8F8;
+    padding-top: 80px;
+    padding-bottom: 61px;
+}
+
+#hero_back_2{
+    background-image: url("../images/map.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}

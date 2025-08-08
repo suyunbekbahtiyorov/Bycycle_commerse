@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+header {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.after_head_00{
+    display: flex;
+    gap: 246px;
+    align-items: center;
+}
+
+.h_02 ul{
+    display: flex;
+    gap: 32px;
+}
+
+.doc{
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.imgs{
+    display: flex;
+    gap: 24px;
+}
+
+.after_head_01{
+    display: flex;
+    gap: 58px;
+    align-items: center;
+}
+
+.headd{
+    display: flex;
+    justify-content: space-between;
+}
+
+.docs{
+    color: #F57520;
+    text-transform: uppercase;
+}
+
+.union h1{
+    font-size: 110px;
+    color: white;
+}
+
+.union p{
+    font-size: 18px;
+    margin-top: 48px;
+    color: white;
+}
+
+.union button{
+    width: 180px;
+    height: 52px;
+    background-color: #F57520;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 40px;
+    color: white;
+}
+
+#hero{
+    padding-top: 80px;
+    padding-bottom: 236px;
+    background-image: url("../images/1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    width: 400px;
+    height: 559px;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+#hero_2{
+    background-color: #F8F8F8;
+    padding-top: 80px;
+    padding-bottom: 61px;
+}
+
+.card_items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_23{
+    margin-left: 16px;
+}
+
+.bianchi{
+    color: #101010;
+    font-size: 18px;
+    margin-top: 16px;
+}
+
+.price{
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+.btn{
+    background-color: #F57520;
+    margin-top: 33px;
+    border: none;
+    width: 368px;
+    height: 57px;
+    border-radius: 10px;
+    color: white;
+}
+
+.cards{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero_back{
+    background-image: url("../images/Frame76.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
